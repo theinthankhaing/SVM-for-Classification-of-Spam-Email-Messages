@@ -6,7 +6,7 @@
 * Pre - processed data using Standardization
 * Created own SVM
 * Calculated the Accuracy
-* MATLAB is used
+* Programming Language - MATLAB
 
 ## Environment Setup
 
